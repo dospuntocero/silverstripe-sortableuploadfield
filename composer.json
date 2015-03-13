@@ -1,0 +1,12 @@
+{
+    "name": "nathancox/silverstripe-sortableuploadfield",
+    "type": "silverstripe-module",
+    "description": "A subclass of UploadField that makes files sortable.  To be tested/documented",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "nathan cox",
+			"role": "Developer"
+		}
+	]
+}
